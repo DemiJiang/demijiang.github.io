@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to set up a blog"
+title:  "How to set up a personal blog locally"
 date:   2020-05-15 08:21:05 +1000
 categories: jekyll update
 ---
