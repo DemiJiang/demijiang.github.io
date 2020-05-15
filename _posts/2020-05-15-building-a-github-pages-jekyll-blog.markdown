@@ -7,7 +7,7 @@ categories: jekyll update
 
 Today Paul K. showed me step by step how to set up a personal locally on github 
 
-###Prerequisite:
+### Prerequisite:
 A github account
 
 Step 1 - Follow the guideline to create a repo  
@@ -26,4 +26,7 @@ See the example below
  $ rm -rf demijiang.github.io/
  $ mv ../demijiang.github.io/.git/ .
 ```
+
+This helps to work on the markdown
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
