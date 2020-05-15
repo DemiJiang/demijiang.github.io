@@ -18,7 +18,7 @@ Step 2 - Follow the guideline using jekyll to setup the site
 
 Step 3 - Run the site locally to see it is up running 
 
-Step 4 - Move site code change to github repo and commit the change 
+Step 4 - Move the change to github repo and commit the change 
 
 See the example below 
 
