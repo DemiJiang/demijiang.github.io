@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="344a7755-2627-46c7-a8b1-69dfd38cd906" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-15-building-a-github-pages-jekyll-blog.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-15-building-a-github-pages-jekyll-blog.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-27" y="-855" width="1200" height="589" key="DiffContextDialog" timestamp="1589524050482">
+      <screen x="-157" y="-1027" width="1680" height="1027" />
+    </state>
+    <state x="-27" y="-855" width="1200" height="589" key="DiffContextDialog/0.23.1440.828/-157.-1027.1680.1027@-157.-1027.1680.1027" timestamp="1589524050482" />
+    <state x="437" y="-843" key="RollbackChangesDialog" timestamp="1589524003500">
+      <screen x="-157" y="-1027" width="1680" height="1027" />
+    </state>
+    <state x="437" y="-843" key="RollbackChangesDialog/0.23.1440.828/-157.-1027.1680.1027@-157.-1027.1680.1027" timestamp="1589524003500" />
     <state x="393" y="-722" width="639" height="486" key="find.popup" timestamp="1589499087975">
       <screen x="-157" y="-1027" width="1680" height="1027" />
     </state>
