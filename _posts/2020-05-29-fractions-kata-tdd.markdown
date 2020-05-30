@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Fractions Kata in TDD"
-date:   2020-05-30 08:21:05 +1000
+date:   2020-05-29 08:21:05 +1000
 categories: TDD
 ---
+
 Today I signed off my fractions TDD course. 
 The course is showing an approach how to do TDD. I have been struggling on how to do TDD then my friend gave 
 me a course with me. 
