@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning Http4s with Doobie-Postgressql in Scala Chapter1"
+title:  "Learning Http4s with Doobie-Postgressql in Scala ChapterOne"
 date:   2020-05-31 08:21:05 +1000
 categories: Scala
 ---
@@ -25,3 +25,8 @@ http://127.0.0.1:8080/country/AFG
 ```
 This is a beginning chapter for myself to build a microservice. 
 In the upcoming time I am going to invest time to build this program by myself.
+Please find my github repo in here, it is an empty scala project at the moment. 
+And I am going to add more stuff in the upcoming time
+```shell script
+https://github.com/DemiJiang/hello-http4s
+```
